@@ -2,7 +2,7 @@
 
 QRCode conversor
 
-> <a href="https://gym-website2023.netlify.app/">Resultado do projeto.</a> <<<<
+> <a href="https://qrcode-mg.netlify.app/">Resultado do projeto.</a> <<<<
 
 <img src="./src/print qrcode.png" alt="Print screen">
 
